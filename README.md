@@ -65,6 +65,13 @@ Example:
     5 people at (41.8781136, -87.6297982)
     Street Address is 314, South Federal Street, Printer's Row, Loop, Chicago, Cook County, 
     Illinois, 60604, United States
+
+Credits
+  
+    Reverse geocoding: https://www.natasshaselvaraj.com/a-step-by-step-guide-on-geocoding-in-python/
+    Socket networking: https://alto-palo.com/blogs/connect-two-computers-using-secure-socket-programming-in
+    -python/#:~:text=%20Connect%20Two%20Computers%20Using%20Secure%20Socket%20Programming,For%20a%20client%2
+     0process%2C%20you%20need...%20More%20
 ##
 Update: 04/24/22
 
@@ -79,13 +86,7 @@ Update: 04/24/22
         2.) code that converts ip addresses to latitude and longitude coordinates
         3.) link all my different pieces and parts of code together
         
-        
-  Credits
-  
-        Reverse geocoding: https://www.natasshaselvaraj.com/a-step-by-step-guide-on-geocoding-in-python/
-        Socket networking: https://alto-palo.com/blogs/connect-two-computers-using-secure-socket-programming-in
-        -python/#:~:text=%20Connect%20Two%20Computers%20Using%20Secure%20Socket%20Programming,For%20a%20client%2
-        0process%2C%20you%20need...%20More%20
+
   ###
 Update: 04/10/22
 
